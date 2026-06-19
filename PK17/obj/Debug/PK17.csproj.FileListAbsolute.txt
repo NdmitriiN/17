@@ -1,0 +1,33 @@
+Z:\2025-2026\2 курс\22ИС\Сидорова\PK17\PK17\bin\Debug\PK17.exe.config
+Z:\2025-2026\2 курс\22ИС\Сидорова\PK17\PK17\bin\Debug\PK17.exe
+Z:\2025-2026\2 курс\22ИС\Сидорова\PK17\PK17\bin\Debug\PK17.pdb
+Z:\2025-2026\2 курс\22ИС\Сидорова\PK17\PK17\bin\Debug\EntityFramework.dll
+Z:\2025-2026\2 курс\22ИС\Сидорова\PK17\PK17\bin\Debug\EntityFramework.SqlServer.dll
+Z:\2025-2026\2 курс\22ИС\Сидорова\PK17\PK17\bin\Debug\EntityFramework.xml
+Z:\2025-2026\2 курс\22ИС\Сидорова\PK17\PK17\bin\Debug\EntityFramework.SqlServer.xml
+Z:\2025-2026\2 курс\22ИС\Сидорова\PK17\PK17\bin\Debug\ru\EntityFramework.resources.dll
+Z:\2025-2026\2 курс\22ИС\Сидорова\PK17\PK17\obj\Debug\PK17.csproj.AssemblyReference.cache
+Z:\2025-2026\2 курс\22ИС\Сидорова\PK17\PK17\obj\Debug\PK17.csproj.SuggestedBindingRedirects.cache
+Z:\2025-2026\2 курс\22ИС\Сидорова\PK17\PK17\obj\Debug\PK17.Form1.resources
+Z:\2025-2026\2 курс\22ИС\Сидорова\PK17\PK17\obj\Debug\PK17.Properties.Resources.resources
+Z:\2025-2026\2 курс\22ИС\Сидорова\PK17\PK17\obj\Debug\PK17.csproj.GenerateResource.cache
+Z:\2025-2026\2 курс\22ИС\Сидорова\PK17\PK17\obj\Debug\PK17.csproj.CoreCompileInputs.cache
+Z:\2025-2026\2 курс\22ИС\Сидорова\PK17\PK17\obj\Debug\PK17.csproj.CopyComplete
+Z:\2025-2026\2 курс\22ИС\Сидорова\PK17\PK17\obj\Debug\PK17.exe
+Z:\2025-2026\2 курс\22ИС\Сидорова\PK17\PK17\obj\Debug\PK17.pdb
+C:\Users\user\Downloads\Ненашев\PK17\PK17\bin\Debug\PK17.exe.config
+C:\Users\user\Downloads\Ненашев\PK17\PK17\bin\Debug\PK17.exe
+C:\Users\user\Downloads\Ненашев\PK17\PK17\bin\Debug\PK17.pdb
+C:\Users\user\Downloads\Ненашев\PK17\PK17\bin\Debug\EntityFramework.dll
+C:\Users\user\Downloads\Ненашев\PK17\PK17\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Downloads\Ненашев\PK17\PK17\bin\Debug\EntityFramework.xml
+C:\Users\user\Downloads\Ненашев\PK17\PK17\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Downloads\Ненашев\PK17\PK17\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\user\Downloads\Ненашев\PK17\PK17\obj\Debug\PK17.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Ненашев\PK17\PK17\obj\Debug\PK17.Form1.resources
+C:\Users\user\Downloads\Ненашев\PK17\PK17\obj\Debug\PK17.Properties.Resources.resources
+C:\Users\user\Downloads\Ненашев\PK17\PK17\obj\Debug\PK17.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Ненашев\PK17\PK17\obj\Debug\PK17.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Ненашев\PK17\PK17\obj\Debug\PK17.csproj.Up2Date
+C:\Users\user\Downloads\Ненашев\PK17\PK17\obj\Debug\PK17.exe
+C:\Users\user\Downloads\Ненашев\PK17\PK17\obj\Debug\PK17.pdb
